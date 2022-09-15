@@ -17,3 +17,20 @@ Microsoft.EntityFrameworkCore.SqlServer
 Microsoft.EntityFrameworkCore.Tools
 Newtonsoft.Json
 RabbitMQ.Client
+
+URL DOC: https://www.bing.com/search?q=crear+usuario+en+rabbitmq&cvid=40149d2e20244b2ca5914efa3c2da617&aqs=edge..69i57.5774j0j1&pglt=43&FORM=ANNTA1&PC=U531
+
+[*] Crear usuario RabbitMQ	
+	rabbitmqctl add_user username password
+
+[*] Esto convierte al usuario en administrador.
+	rabbitmqctl set_user_tags username administrator
+
+[*] 
+
+[*] 
+
+[*] 
+
+[*] 
+
