@@ -1,0 +1,19 @@
+﻿RABBITMQ
+
+URL HOST: http://localhost:15672
+username: guest
+passowrd: guest 
+
+COMANDO ACTIVACIÓN PLUGGINS:
+rabbitmq-plugins enable rabbitmq_management
+
+DOC: https://www.c-sharpcorner.com/article/rabbitmq-message-queue-using-net-core-6-web-api/
+
+Proyecto ASP.NET Core Web API
+Nuggets:
+Microsoft.EntityFrameworkCore
+Microsoft.EntityFrameworkCore.Design
+Microsoft.EntityFrameworkCore.SqlServer
+Microsoft.EntityFrameworkCore.Tools
+Newtonsoft.Json
+RabbitMQ.Client
